@@ -1,6 +1,6 @@
 Data has been collected from the Zomato API in the form of .json files(raw data) using the following url and stored in CSV file -
 https://developers.zomato.com/api/v2.1/search?entity_id=1&entity_type=city&start=1&count=20 
-Download Link
+Download Link- https://drive.google.com/file/d/1FSa_x3COvCoMODa44qXufO9CQb3ydqKw/view
 
 
 Details of zomato.csv -
